@@ -1,0 +1,14 @@
+{
+  "name": "color-bot",
+  "version": "1.0.0",
+  "description": "بوت لاختيار ألوان الرولات في ديسكورد",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "اسمك",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0"
+  }
+}
